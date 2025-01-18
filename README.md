@@ -39,7 +39,6 @@ Entertainment and Curiosity: Appeals to those curious about extinct animals and 
   LAGNCHAIN_API_KEY=your_langchain_api_key
   LANGCHAIN_TRACING_V2=true
   LANGCHAIN_PROJECT=your_project_name 
-  DEEPGRAM_API_KEY=your_deepgram_api_key
   GOOGLE_APPLICATION_CREDENTIALS=path_to_gcp_credentials.json
   ```
 - Required Python packages (see below).
@@ -139,7 +138,10 @@ Thylacine_Chat
 
 Ensure the following environment variables are set:
 
-- `DEEPGRAM_API_KEY`: Your Deepgram API key.
+ 
+- `GROQ_API_KEY`: Your Groq API key.
+- `JINA_API_KEY`: Your Jina API key.
+- `LANGCHAIN_API_KEY`: Your LangChain API key.
 - `GOOGLE_APPLICATION_CREDENTIALS`: Path to your GCP service account JSON key file.
 
 ### Vector Store
