@@ -38,7 +38,7 @@ Entertainment and Curiosity: Appeals to those curious about extinct animals and 
   JINA_API_KEY=your_jina_api_key
   LAGNCHAIN_API_KEY=your_langchain_api_key
   LANGCHAIN_TRACING_V2=true
-  LANGCHAIN_PROJECT=animal_chat 
+  LANGCHAIN_PROJECT=your_project_name 
   DEEPGRAM_API_KEY=your_deepgram_api_key
   GOOGLE_APPLICATION_CREDENTIALS=path_to_gcp_credentials.json
   ```
