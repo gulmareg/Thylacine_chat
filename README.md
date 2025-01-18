@@ -186,11 +186,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-## Contributing
-
-Contributions are welcome! If you want to improve the project, submit a pull request or open an issue.
-
----
-
-
-s.
